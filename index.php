@@ -89,6 +89,8 @@
             </div>
           </div>
         </div>
+        <!-- </div> -->
+
 
 
       </div>
@@ -108,6 +110,7 @@
           <use xlink:href="#wave-path" x="50" y="9" fill="#fff">
         </g>
       </svg>
+    </div>
 
   </section><!-- End Hero -->
 
@@ -462,8 +465,8 @@
             <div class="portfolio-info">
               <h4>Makam leluhur dusun gribig</h4>
               <p>TAFSIRUDIN (buyut/syayif)</p>
-              <a href="assets/img/leluhur-1.jpg" data-gallery="portfolioGallery"
-                class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
+              <a href="assets/img/leluhur-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                title="Card 1"><i class="bx bx-plus"></i></a>
             </div>
           </div>
 
