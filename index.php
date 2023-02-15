@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Kyai Ageng Gribig</title>
+  <title>Ki Ageng Gribig</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -48,7 +48,7 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <h1><a href="index.php">Kyai Ageng Gribig</a></h1>
+        <h1><a href="index.php">Ki Ageng Gribig</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
@@ -79,7 +79,9 @@
         <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown">Sugeng Rawuh <!--<span>Sailor</span>--></h2>
+              <h2 class="animate__animated animate__fadeInDown">Sugeng Rawuh
+                <!--<span>Sailor</span>-->
+              </h2>
               <!-- <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea
                 ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem.
                 Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
@@ -142,7 +144,7 @@
 
         <div class="section-title" data-aos="zoom-out">
           <h2>Tentang</h2>
-          <p>Makam Kyai Ageng Gribig</p>
+          <p>Makam Ki Ageng Gribig</p>
         </div>
 
         <div class="row content" data-aos="fade-up">
@@ -154,14 +156,14 @@
               peninggalan masa lampau, yang bercerita tentang sebuah kebudayaan akhir Majapahit
               sekaligus awal penyebaran kebudayaan – agama Islam di tlatah MalangRaya.
               <br> <br>
-              Komplek makam Kyai Ageng Gribig, terletak di lingkungan kampung Gribig RW 04 Kelurhan
+              Komplek makam Ki Ageng Gribig, terletak di lingkungan kampung Gribig RW 04 Kelurhan
               Madyopuro Kedungkandang Kota Malang. Di komplek ini, memberikan simbol tentang
               siapa saja yang di makamkan di sini. Dengan total luas area lahan makam
               kurang lebih lima ribu meter persegi, banyak ditemukan nisan-nisan yang
               bercerita pada masa apa si empunya nisan ini pernah hidup. Bisa diartikan,
               kebudayaan di sekitar komplek makam ini sudah ada sejak jaman apa.
               <br> <br>
-              Ketika berkunjung ke komplek makam Kyai Ageng Gribig akan menemukan:
+              Ketika berkunjung ke komplek makam Ki Ageng Gribig akan menemukan:
 
             </p>
             <ul>
@@ -231,63 +233,48 @@
                   Di area ini banyak berdampingan nisan-nisan yang khas,
                   banyak kita temui di makam-makam daerah pantai utara (Pantura)
                   jawa yang konon merupakan pintu masuk agama Islam – peradaban Islam.
-                  Berdekatannya makam-makam ini dengan makam Kyai Ageng Gribig, sehingga
-                  banyak yang menduga, makam para santri, cantrik, atau pengikut dari Kyai Ageng Gribig
-                  (makamnya di dalam cungkup warna hijau) siapakah Kyai Ageng Gribig yang di makamkan
+                  Berdekatannya makam-makam ini dengan makam Ki Ageng Gribig, sehingga
+                  banyak yang menduga, makam para santri, cantrik, atau pengikut dari Ki Ageng Gribig
+                  (makamnya di dalam cungkup warna hijau) siapakah Ki Ageng Gribig yang di makamkan
                   di cungkup warna hijau ini ? Menurut beberapa sumber, beliau yang dimakamkan di dalam
                   cungkup ini adalah keturunan raja Majapahit dengan silsilah kurang lebih sebagai berikut :
                 </p>
                 <!-- foto1 -->
-                <div class="row">
+                <div class="row" id="silsilah">
                   <div class="col-lg-3 col-md-8 portfolio-item filter-card">
-                    <div class="portfolio-img"><img src="assets/img/nisan.jpeg" class="rounded img-fluid" width="300px"
-                        alt="">
+                    <div class="portfolio-img"><img src="assets/img/silsilah-1.jpeg" class="rounded img-fluid"
+                        width="300px" alt="">
                     </div>
                     <div class="portfolio-info">
-                      <p>Card</p>
+
                     </div>
                   </div>
                   <!-- end::foto1 -->
                   <!-- foto2 -->
                   <div class="col-lg-3 col-md-8 portfolio-item filter-card">
-                    <div class="portfolio-img"><img src="assets/img/nisan2.jpeg" class="rounded img-fluid" width="300px"
-                        alt="">
+                    <div class="portfolio-img"><img src="assets/img/silsilah-2.jpeg" class="rounded img-fluid"
+                        width="300px" alt="">
                     </div>
                     <div class="portfolio-info">
-                      <p>Card</p>
+                      <!-- <p>Card</p> -->
                     </div>
                   </div>
 
                   <!-- end::foto2 -->
-                  <!-- foto3 -->
 
-                  <div class="col-lg-3 col-md-8 portfolio-item filter-card">
-                    <div class="portfolio-img"><img src="assets/img/nisan3.jpeg" class="rounded img-fluid" width="300px"
-                        alt="">
-                    </div>
-                    <div class="portfolio-info">
-                      <p>Card</p>
-                    </div>
-                  </div>
-                  <!-- end::foto3 -->
-                  <!-- foto4 -->
+                  <p class="fst-italic">
+                    Foto Silsilah Ki Ageng Gribig oleh Keluarga Notoningratan
+                  </p>
+                  <br><br>
 
-                  <div class="col-lg-3 col-md-8 portfolio-item filter-card">
-                    <div class="portfolio-img"><img src="assets/img/nisan4.jpeg" class="rounded img-fluid" width="300px"
-                        alt="">
-                    </div>
-                    <div class="portfolio-info">
-                      <p>Card</p>
-                    </div>
-                  </div>
                 </div>
-                <!-- end::foto4 -->
+
                 <p>
                   Diperkirakan, beliau hidup pada jaman Sultan Agung (Mataram Islam)
                   sebagai seorang senopati. Kalau di daerah Malang Raya beliau juga berperan
                   sebagai seorang Adipati, yang pasti mempunyai gelar Panatagama/Seorang alim ulama’.
                   Di sekitar cungkup ini juga ada beberapa nisan, yang kita kenal makam Adipati Wiranegara
-                  (Untung Suropati). Makam Kyai Lembu Lemburo, Kyai- Nyai Kurung Agung (Karuhun Agung - ?)
+                  (Untung Suropati). Makam Ki Lembu Lemburo, Ki- Nyai Kurung Agung (Karuhun Agung - ?)
                   dan beberapa makam lain yang sudah hilang identitasnya.
                   Ada juga makam Mbah TAFSIRUDIN (Punjer wong Gribig), serta ada makam buyut Kanigoro
                   (istri Sayyid Sulaiman Mojoagung-Mojokerto) yang masih ada kekerabatan dengan Pondok
@@ -302,9 +289,9 @@
                   </div>
                 </div>
               </div>
-              
+
               <div class="col-lg-4 order-1 order-lg-2 ">
-                <img src="assets/img/nisan3.jpeg" alt="" class="img-fluid img-centered">
+                <img src="assets/img/nisan1.jpeg" alt="" class="img-fluid img-centered">
 
 
               </div>
@@ -337,7 +324,7 @@
 
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/features-2.png" alt="" class="img-fluid">
+                <img src="assets/img/makambupatimalang2-3.jpg" alt="" class="img-fluid ">
               </div>
             </div>
           </div>
@@ -361,7 +348,7 @@
                   produksi oksigen di lingkungan.
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/features-3.png" alt="" class="img-fluid">
+                <img src="assets/img/pohonnogosari-1.jpg" alt="" class="img-fluid">
               </div>
             </div>
           </div>
@@ -370,7 +357,7 @@
       </div>
     </section><!-- End Features Section -->
 
-    
+
 
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
@@ -418,113 +405,103 @@
           <p>Galeri</p>
         </div>
 
-        <ul id="portfolio-flters" class="d-flex justify-content-end" data-aos="fade-up">
-          <li data-filter="*" class="filter-active">All</li>
-          <li data-filter=".filter-app">App</li>
-          <li data-filter=".filter-card">Card</li>
-          <li data-filter=".filter-web">Web</li>
-        </ul>
 
         <div class="row portfolio-container" data-aos="fade-up">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt=""></div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-img"><img src="assets/img/makambupatimalang2-3.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>App 1</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery"
-                class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
+              <h4>Makam Bupati Malang II</h4>
+              <p>R.A.A. Notodiningrat II </p>
+              <a href="assets/img/makambupatimalang2-3.jpg" data-gallery="portfolioGallery"
+                class="portfolio-lightbox preview-link" title="Makam Bupati Malang II R.A.A. Notodiningrat II"><i
+                  class="bx bx-plus"></i></a>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt=""></div>
-            <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
-              <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery"
-                class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt=""></div>
-            <div class="portfolio-info">
-              <h4>App 2</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery"
-                class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="assets/img/makambupatimalang1-1.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>Card 2</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery"
-                class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
+              <h4>Makam Bupati Malang I</h4>
+              <p>R.T. Notodiningrat I</p>
+              <a href="assets/img/makambupatimalang1-1.jpg" data-gallery="portfolioGallery"
+                class="portfolio-lightbox preview-link" title="Makam Bupati Malang I R.T. Notodiningrat I"><i
+                  class="bx bx-plus"></i></a>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt=""></div>
-            <div class="portfolio-info">
-              <h4>Web 2</h4>
-              <p>Web</p>
-              <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery"
-                class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt=""></div>
-            <div class="portfolio-info">
-              <h4>App 3</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery"
-                class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="assets/img/makam-3.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>Card 1</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery"
+              <h4>Makam Nyai Kanigoro</h4>
+              <p>Garwo Sayyid Sulaiman Mojoagung</p>
+              <a href="assets/img/makam-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                title="Makam Nyai Kanigoro Garwo Sayyid Sulaiman Mojoagung"><i class="bx bx-plus"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-img"><img src="assets/img/foto-6.jpg" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Kawasan</h4>
+              <p>Wisata religi</p>
+              <a href="assets/img/foto-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                title="Kawasan wisata religi"><i class="bx bx-plus"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-img"><img src="assets/img/pohondewandaru-1.jpg" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Tanaman</h4>
+              <p>Pohon Dewandaru</p>
+              <a href="assets/img/pohondewandaru-1.jpg" data-gallery="portfolioGallery"
+                class="portfolio-lightbox preview-link" title="Tanaman Pohon Dewandaru"><i class="bx bx-plus"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-img"><img src="assets/img/foto-4.jpg" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Makam </h4>
+              <p> Ki Ageng Gribig</p>
+              <a href="assets/img/foto-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                title="Makam Ki Ageng Gribig"><i class="bx bx-plus"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-img"><img src="assets/img/foto-3.jpg" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Makam Bupati Malang I</h4>
+              <p>R.T. Notodiningrat I</p>
+              <a href="assets/img/foto-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                title="Card 2"><i class="bx bx-plus"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-img"><img src="assets/img/leluhur-1.jpg" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Makam leluhur dusun gribig</h4>
+              <p>TAFSIRUDIN (buyut/syayif)</p>
+              <a href="assets/img/leluhur-1.jpg" data-gallery="portfolioGallery"
                 class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="assets/img/lorongnogosari-1.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>Card 3</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery"
-                class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Kawasan </h4>
+              <p>lorong nogosari</p>
+              <a href="assets/img/lorongnogosari-1.jpg" data-gallery="portfolioGallery"
+                class="portfolio-lightbox preview-link" title="Kawasan lorong nogosari"><i class="bx bx-plus"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt=""></div>
-            <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
-              <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery"
-                class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
 
         </div>
 
@@ -568,7 +545,7 @@
           </div>
 
           <div class="col-lg-8 mt-5 mt-lg-0" data-aos="fade-left">
-<!-- 
+            <!-- 
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
@@ -604,7 +581,7 @@
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="container">
-      <h3>Makam Kyai Ageng Gribig</h3>
+      <h3>Makam Ki Ageng Gribig</h3>
       <!-- <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p> -->
       <!-- <div class="social-links">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
