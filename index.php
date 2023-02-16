@@ -71,14 +71,12 @@
         <div class="carousel-item active">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown">Sugeng Rawuh
-                <!--<span>Sailor</span>-->
+              <h2 class="animate__animated animate__fadeInDown">Sugeng 
+                <span>Rawuh</span>
               </h2>
               <!-- <img src="assets/img/banner4.jpg" alt="" srcset=""> -->
-              <!-- <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea
-                ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem.
-                Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-              <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Selengkapnya</a> -->
+              <p class="animate__animated animate__fadeInUp">Mulyaning urip gumantung saka resik ing ati </p>
+              <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Selengkapnya</a>
             </div>
           </div>
         </div>
@@ -531,7 +529,7 @@
   <footer id="footer">
     <div class="container">
       <h3>Makam Ki Ageng Gribig</h3>
-      <!-- <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p> -->
+      <p>Mulyaning urip gumantung saka resik ing ati.</p>
       <!-- <div class="social-links">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
