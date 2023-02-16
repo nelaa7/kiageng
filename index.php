@@ -75,7 +75,7 @@
                 <span>Rawuh</span>
               </h2>
               <!-- <img src="assets/img/banner4.jpg" alt="" srcset=""> -->
-              <p class="animate__animated animate__fadeInUp">Mulyaning urip gumantung saka resik ing ati </p>
+              <p class="animate__animated animate__fadeInUp">Mulyaning urip gumantung saka resik ing ati <br>KSMT 62 UNISMA 2023 </p>
               <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Selengkapnya</a>
             </div>
           </div>
@@ -142,13 +142,7 @@
             </ul>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
-            <!--
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-              voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum.
-            </p> -->
+        
             <a href="#features" class="btn-learn-more">Selengkapnya</a>
           </div>
         </div>
@@ -179,12 +173,7 @@
               <h4 class="d-none d-lg-block">Peyangga mata air dan konversi tanaman langka</h4>
             </a>
           </li>
-          <!-- <li class="nav-item col-3" data-aos="zoom-in" data-aos-delay="300">
-            <a class="nav-link" data-bs-toggle="tab" href="#tab-4">
-              <i class="ri-store-line"></i>
-              <h4 class="d-none d-lg-block">Nostrum qui dile node</h4>
-            </a>
-          </li> -->
+         
         </ul>
         <!-- tab1 -->
         <div class="tab-content" data-aos="fade-up">
@@ -530,13 +519,7 @@
     <div class="container">
       <h3>Makam Ki Ageng Gribig</h3>
       <p>Mulyaning urip gumantung saka resik ing ati.</p>
-      <!-- <div class="social-links">
-        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-      </div> -->
+     
       <div class="copyright">
         &copy; Copyright <strong><span>KSMT 62 UNISMA 2023</span></strong>. All Rights Reserved
       </div>
