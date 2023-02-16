@@ -76,12 +76,13 @@
       <div class="carousel-inner" role="listbox">
 
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
+        <div class="carousel-item active">
           <div class="carousel-container">
             <div class="container">
               <h2 class="animate__animated animate__fadeInDown">Sugeng Rawuh
                 <!--<span>Sailor</span>-->
               </h2>
+              <!-- <img src="assets/img/banner4.jpg" alt="" srcset=""> -->
               <!-- <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea
                 ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem.
                 Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
